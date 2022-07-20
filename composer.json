@@ -1,5 +1,8 @@
 {
-    "require": {
-        "bref/bref": "^1.7"
-    }
+  "require": {
+    "bref/bref": "^1.7"
+  },
+  "config": {
+    "platform-check": false
+  }
 }
